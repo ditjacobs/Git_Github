@@ -12,4 +12,4 @@
 
 `git revert <commit ID>` => creates a new commit that is the same as the chosen one
 
-`git clone <ssh remote>` => creates a local repositor, creates "the bridge" and pulls the complete project (commit history)
+`git clone <ssh remote>` => creates a local repository, creates "the bridge" and pulls the complete project (commit history)
