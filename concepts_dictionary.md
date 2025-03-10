@@ -11,7 +11,7 @@ Git init will initialize a git repository. When git is initialized twice, change
 This is located locally (on my computer) in an assigned folder 
 
 **The Staging area**
-Location to prepare for a commit, prepare the snapshots of the timeline 
+Location to prepare for a commit, prepare the snapshots of the timeline. Staging area is important when working with several files, and I need to classify the ones i want to commit together.
 
 **The Local repository** 
 This is the git repository `.git`initialized with git init, keeps track of the timeline 
