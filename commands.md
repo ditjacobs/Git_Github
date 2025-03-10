@@ -12,3 +12,10 @@
 
 `git push`: push all COMMITED contents to Github. Note first time pushing use: `git push --set-upstream origin main`
 
+`git push`: push contents to Github from local repository
+
+`git pull`: pull contents from Github to local repository 
+
+`git revert <commit ID>` => creates a new commit that is the same as the chosen one
+
+`git clone <ssh remote>` => creates a local repositor, creates "the bridge" and pulls the complete project (commit history)
