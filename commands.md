@@ -6,3 +6,6 @@
 
 `git commit -m "meaningful msg"`: commit the file with a meaninful message explaining why/how/effects/limitations things changed. Commits the version/snapshot of the file in the timeline 
 
+`git push`: push contents to Github from local repository
+
+`git pull`: pull contents from Github to local repository 
