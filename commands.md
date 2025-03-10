@@ -1,0 +1,8 @@
+# Commands
+
+`git init`: initialize a git repository; note: make sure that no git repositories exist in the current folder
+
+`git add`: add the file to the staging area, preparing for commiting
+
+`git commit -m "meaningful msg"`: commit the file with a meaninful message explaining why/how/effects/limitations things changed. Commits the version/snapshot of the file in the timeline 
+
