@@ -22,4 +22,8 @@ Testing a no msg commit.
 **Remote repository**
 The remote repository is Github, where all the timelines for all projects are stored.
 
-updating the file
+**Solving conflicts**
+Pull all contents, and adapt the changes accordingly. Push the resolved file to Github. 
+
+**Tagging**
+adding a tag to commit jobs to track specific version
