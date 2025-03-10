@@ -16,6 +16,6 @@ Location to prepare for a commit, prepare the snapshots of the timeline
 **The Local repository** 
 This is the git repository `.git`initialized with git init, keeps track of the timeline 
 
-
+Testing a no msg commit. 
 
 
