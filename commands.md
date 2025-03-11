@@ -22,15 +22,27 @@
 
 `git tag name`: create a tag to the HEAD committed job
 
+<<<<<<< HEAD
 `git tag name commitID`: add a commitID to add the tag to specific commited job
 
 `git checkout name`:to move between branches and commits
 
 `git show`:show differences between commited jobs
 `git tag commitID`: add a commitID to add the tag to specific commited job
+=======
+`git checkout name`:to move between branches and commits
+
+`git show`:show differences between commited jobs
+
+`git tag commitID`: add a commit ID to add the tag to specific commited job
+>>>>>>> 0eb4f0a2e279cff4cb261f16814dd14184787896
 
 `git branch -l`: list the local branches
 
 `git branch -a`: list all branches, local and remote
 
 `git push --set-upstream origin <branch name>`: push new branch and create a corresponding branch remote
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0eb4f0a2e279cff4cb261f16814dd14184787896
