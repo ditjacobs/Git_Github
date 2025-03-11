@@ -28,3 +28,4 @@
 
 `git branch -a`: list all branches, local and remote
 
+`git push --set-upstream origin <branch name>`: push new branch and create a corresponding branch remote
