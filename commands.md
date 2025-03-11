@@ -22,4 +22,9 @@
 
 `git tag name`: create a tag to the HEAD committed job
 
-`git tag name commitID`: add a commitID to add the tag to specific commited job
+`git tag commitID`: add a commitID to add the tag to specific commited job
+
+`git branch -l`: list the local branches
+
+`git branch -a`: list all branches, local and remote
+
