@@ -23,3 +23,7 @@
 `git tag name`: create a tag to the HEAD committed job
 
 `git tag name commitID`: add a commitID to add the tag to specific commited job
+
+`git checkout`:to move between branches and commits
+
+`git show`:show differences between commited jobs
