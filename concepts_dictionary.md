@@ -31,6 +31,3 @@ adding a tag to commit jobs to track specific version
 **Difference between git checkout and git show**
 Git checkout is used to move between branches and commits, while git show will show the content and differences between commited jobs 
 
-new line with a lof of info 
-
-keep adding stuff and saving
